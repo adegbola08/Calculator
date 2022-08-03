@@ -1,2 +1,1 @@
-# Java-Projects
-class assigned projects completed by me
+This's a Java-programmed calculator made using JFrame
